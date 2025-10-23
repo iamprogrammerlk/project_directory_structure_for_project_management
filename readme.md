@@ -10,9 +10,9 @@
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Project Directory Structure for Project Management
 
-{{PROJECT_DESCRIPTION}}
+The layout of the directory (folder) and file structure for a scalable, systematic approach to managing large projects.
 
 > [!TIP]
 >
