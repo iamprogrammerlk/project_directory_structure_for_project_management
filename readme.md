@@ -3,8 +3,8 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://github.com/iamprogrammerlk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+  <a href="https://iamprogrammer.lk">
+    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
   </a>
 </div>
 
